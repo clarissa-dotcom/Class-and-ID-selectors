@@ -1,0 +1,24 @@
+/*using grouping */
+.element-1,
+.element-3,
+.element-5{
+    background-color: #ffc0cb;
+    font: "Verdana", "DejaVu Sans",sans-serif;
+}
+.element-1{
+    color:hsl(0, 0%, 0%);
+
+}
+#element-2{
+    color:hwb(240 0% 0%);
+    font-size: 36px;
+}
+.element-3.paragraph{
+    font-size: 24px;
+
+}
+#element-4{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 700;
+}
